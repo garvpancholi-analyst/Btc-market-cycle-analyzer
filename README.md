@@ -94,7 +94,7 @@ Built a single comprehensive chart with 4 layers:
 
 
 # 1. Clone this repository
-git clone https://github.com/yourusername/btc-market-cycle-analyzer
+git clone https://github.com/garvpancholi-analyst/btc-market-cycle-analyzer
 
 # 2. Install required libraries
 pip install pandas matplotlib
@@ -111,7 +111,7 @@ jupyter notebook btc_complete_project.ipynb
 **Garv Pancholi**
 📧 garvpancholi2@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/garvp7)
-🐙 [GitHub](https://github.com/yourusername)
+🐙 [GitHub](https://github.com/garvpancholi-analyst)
 
 
 
