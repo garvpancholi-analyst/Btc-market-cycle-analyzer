@@ -28,16 +28,7 @@ analyse how price behaviour differs between the two.
 
 ## 📂 Project Structure
 
-📁 btc-market-cycle-analyzer
-│
-├── btc_complete_project.ipynb  ← full code with outputs
-├── btc_price_data.csv          ← 5 years of BTC daily price data
-├── btc_chart.png               ← final visualization
-└── README.md                   ← project documentation
-
-
-
-##  How It Works — 5 Stage Pipeline
+###  How It Works — 5 Stage Pipeline
 
 ### Stage 1 — Load & Inspect
 - Loaded raw BTC daily closing price data (2019–2023)
