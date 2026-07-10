@@ -64,7 +64,7 @@ Built a single comprehensive chart with 4 layers:
 
 ## 📊 Chart
 
-![Bitcoin Market Cycle Chart] -> https://github.com/garvpancholi-analyst/Btc-market-cycle-analyzer/blob/main/Chart.png
+Bitcoin Market Cycle Chart -> https://github.com/garvpancholi-analyst/Btc-market-cycle-analyzer/blob/main/Chart.png
 
 
 
