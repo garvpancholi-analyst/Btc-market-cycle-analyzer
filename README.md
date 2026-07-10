@@ -64,7 +64,7 @@ Built a single comprehensive chart with 4 layers:
 
 ## 📊 Chart
 
-![Bitcoin Market Cycle Chart](chart.png)
+![Bitcoin Market Cycle Chart] -> Chart.png
 
 
 
